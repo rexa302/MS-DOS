@@ -9,7 +9,7 @@ The MS-DOS v1.25 and v2.0 files [were originally shared at the Computer History 
 
 # License
 
-All files within this repo are released under the [MIT License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/Microsoft/MS-DOS/blob/main/LICENSE) stored in the root of this repo.
+All files within this  are released under the [MIT License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/Microsoft/MS-DOS/blob/main/LICENSE) stored in the root of this repo.
 
 # For historical reference
 
